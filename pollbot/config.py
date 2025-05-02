@@ -30,7 +30,7 @@ default_config = {
     "webhook": {
         "enabled": False,
         "domain": "https://localhost",
-        "token": "pollbot",
+        "token": "8043479258:AAFTgYpQWMiB6bwttV204DRzsI17xb8fviE",
         "cert_path": "/path/to/cert.pem",
         "port": 7000,
     },
